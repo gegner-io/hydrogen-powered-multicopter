@@ -137,6 +137,12 @@ A structured testing methodology was implemented:
 
 ---
 
+## 🙏 Acknowledgments
+
+Special thanks to [IamPete1](https://github.com/IamPete1) for test-compiling the code.
+
+---
+
 ## 📁 Repository Structure
 
 ```bash
