@@ -112,6 +112,13 @@ A structured testing methodology was implemented:
 
 ---
 
+## 📚 Documentation
+
+- 📄 [Project Report](docs/project-report.md)
+- 📘 [Full Thesis](docs/thesis.pdf)
+
+---
+
 ## 🚀 Applications
 
 - Environmental monitoring  
