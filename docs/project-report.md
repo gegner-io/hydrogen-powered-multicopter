@@ -21,7 +21,7 @@ The project addresses the following key questions:
 - How can a multicopter with Pixhawk be designed and integrated with a fuel cell?
 - What is the impact of fuel cells on flight performance and endurance?
 
-To answer these, a full system was developed and experimentally evaluated. :contentReference[oaicite:0]{index=0}
+To answer these, a full system was developed and experimentally evaluated.
 
 ---
 
@@ -47,7 +47,7 @@ Key engineering trade-offs:
 - ⚡ Continuous vs peak power  
 - 🔋 Hybrid system necessity  
 
-A quadcopter configuration was chosen to reduce weight and system complexity compared to a hexacopter. :contentReference[oaicite:1]{index=1}
+A quadcopter configuration was chosen to reduce weight and system complexity compared to a hexacopter.
 
 ---
 
@@ -77,7 +77,7 @@ Key characteristics:
 
 - Max continuous power: **800W**
 - Energy capacity: ~**495 Wh usable**
-- Requires hybrid battery for load peaks :contentReference[oaicite:2]{index=2}
+- Requires hybrid battery for load peaks
 
 The hybrid system ensures:
 - Stable operation  
@@ -91,7 +91,7 @@ The hybrid system ensures:
 - Dual power monitoring:
   - Battery
   - Hydrogen tank level
-- Failsafe mechanisms for safe operation :contentReference[oaicite:3]{index=3}
+- Failsafe mechanisms for safe operation
 
 ---
 
@@ -107,7 +107,7 @@ A custom test bench was developed:
 
 This ensured:
 - Reproducible measurements  
-- No environmental disturbances (wind, weather) :contentReference[oaicite:4]{index=4}
+- No environmental disturbances (wind, weather)
 
 ---
 
@@ -131,7 +131,6 @@ Key variable:
 | Battery      | 6216 W      | 177.6 Wh       |
 | Fuel Cell    | 800 W       | 495 Wh         |
 
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -182,7 +181,7 @@ The integration of a hydrogen fuel cell into a Pixhawk-based multicopter was suc
 
 Key outcome:
 
-> Fuel cells significantly extend flight duration but require hybrid support for real-world applications. :contentReference[oaicite:6]{index=6}
+> Fuel cells significantly extend flight duration but require hybrid support for real-world applications.
 
 This work provides a foundation for future UAV energy systems and highlights the potential of hydrogen technology in aviation.
 
